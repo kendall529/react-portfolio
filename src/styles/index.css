@@ -15,3 +15,7 @@ a:hover {
   text-align: center;
   padding-top: 3rem;
 }
+
+.nav-item {
+  display: inline-block;
+}
